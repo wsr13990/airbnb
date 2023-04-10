@@ -35,7 +35,7 @@ Three html from EDA process using sweetviz (listing, calendar & review) file fro
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the post available [here](https://medium.com/p/2ce4d204caaa/edit).
+The main findings of the code can be found at the post available [here](https://medium.com/@wahyusejatiroso/airbnb-in-seattle-vs-boston-a-comparison-of-pricing-customer-satisfaction-and-superhost-status-2ce4d204caaa).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
