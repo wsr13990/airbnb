@@ -9,32 +9,36 @@
 
 ## Installation <a name="installation"></a>
 
-There should be no necessary libraries to run the code here beyond the Anaconda distribution of Python.  The code should run with no issues using Python versions 3.*.
+Necessary libary for this notebook are:
+1. Plotly (for interactive visualization )
+2. Sweetviz (for EDA & data sanity check)
+
+Other than libraries mentioned above,  it should be covered with Anaconda distribution of Python.  The code should run with no issues using Python versions 3.*.
+
 
 ## Project Motivation<a name="motivation"></a>
 
-For this project, I was interestested in using Stack Overflow data from 2017 to better understand:
+For this project, I was interestested in using Airbnb in Seattle & Boston to better understand:
+1. How is price in Seattle compared to to Boston?
+2. What is the dominant type of accommodation in each city, and how is it priced?
+3. Is higher customer satisfaction due to cheaper price, if not what foctor correlate with it?
+4. Is there any difference between Superhost and Non-Superhost for in term of price and rating?
 
-1. How other developers suggested breaking into the field (what education to pursue)?
-2. What factors about an individual contributed to salary?
-3. How bias played a role in the suggestions of developers for how to break into the field?
-4. What was the state of bootcamps for assisting individuals with breaking into developer roles?
-5. How were bootcamps assisting with increasing diversity in tech careers?
-
-The full set of files related to this course are owned by Udacity, so they are not publicly available here.  However, you can see pieces of the analysis here.  This README also serves as a template for students to follow in creating their own project README files.
+Full detail of analysis can be found in Airbnb.ipynb
 
 
 ## File Descriptions <a name="files"></a>
 
-There are 3 notebooks available here to showcase work related to the above questions.  Each of the notebooks is exploratory in searching through the data pertaining to the questions showcased by the notebook title.  Markdown cells were used to assist in walking through the thought process for individual steps.  
-
-There is an additional `.py` file that runs the necessary code to obtain the final model used to predict salary.
+There are 1 notebooks, and 3 EDA html output form smartviz available here to showcase work related to the above questions. The notebooks is exploratory in searching through the data pertaining to the questions showcased by the notebook title.  Markdown cells were used to assist in walking through the thought process for individual steps.
+Three EDA output are for listing, calendar & review file from airbnb dataset.
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the post available [here](https://medium.com/@josh_2774/how-do-you-become-a-developer-5ef1c1c68711).
+The main findings of the code can be found at the post available [here](https://medium.com/p/2ce4d204caaa/edit).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
-Must give credit to Stack Overflow for the data.  You can find the Licensing for the data and other descriptive information at the Kaggle link available [here](https://www.kaggle.com/stackoverflow/so-survey-2017/data).  Otherwise, feel free to use the code here as you would like! 
+Credit to Airbnb & Kaggle for providing following data:
+1. https://www.kaggle.com/datasets/airbnb/seattle
+2. https://www.kaggle.com/datasets/airbnb/boston
 
