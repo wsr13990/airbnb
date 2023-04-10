@@ -29,8 +29,9 @@ Full detail of analysis can be found in Airbnb.ipynb
 
 ## File Descriptions <a name="files"></a>
 
-There are 1 notebooks, and 3 EDA html output form smartviz available here to showcase work related to the above questions. The notebooks is exploratory in searching through the data pertaining to the questions showcased by the notebook title.  Markdown cells were used to assist in walking through the thought process for individual steps.
-Three EDA output are for listing, calendar & review file from airbnb dataset.
+There are 1 notebooks in html & ipynb format, and 3 EDA html output form smartviz available here to showcase work related to the above questions. The notebooks is exploratory in searching through the data pertaining to the questions showcased by the notebook title.  Markdown cells were used to assist in walking through the thought process for individual steps.
+Three html from EDA process using sweetviz (listing, calendar & review) file from airbnb dataset.
+
 
 ## Results<a name="results"></a>
 
